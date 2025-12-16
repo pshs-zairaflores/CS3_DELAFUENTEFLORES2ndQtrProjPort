@@ -8,7 +8,7 @@
     }
 
     header {
-        background-image: url("/assets/the_gaang_by_happyviper_d6ofbdt-fullview\ \(1\).jpg");
+        background-image: url("./assets/the_gaang_by_happyviper_d6ofbdt-fullview\ \(1\).jpg");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -51,7 +51,7 @@
     nav{
       background-color: rgba(215, 195, 160, 0.85);
       background-size: cover;
-      background-image: url("/assets/Home.png");
+      background-image: url("./assets/Home.png");
       background-repeat: no-repeat;
       padding: 10px 40px;
       font-size: 18px;
