@@ -4,9 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Characters List | Echoes of The Elements</title>
-  <link rel="stylesheet" href="styles-characterlist.css" />
+  <link rel="stylesheet" href="charactertest.css" />
   <link rel="icon" type="image/png" href="../assets/favicon.ico" />
 </head>
+
 <body>
 
   <header>
@@ -20,10 +21,12 @@
 
   <section class="page-title">
     <h3>Characters List</h3>
-    <a href="https://pshs-zairaflores.github.io/CS3_DELAFUENTEFLORES2ndQtrProjPort/index.html" class="homelink">Home</a>
+    <p class="breadcrumb">
+      <a href="../index.html" class="homelink">Home</a> &gt; Characters List
+    </p>
   </section>
 
- <main class="character-content">
+  <main class="character-content">
 
     <h4 class="section-heading">Meet The Gaang!</h4>
     <hr class="divider">
@@ -62,16 +65,19 @@
 
     </div>
   </main>
-  
- <footer>
-       <hr/>
-       <p class="copyright">
-        &copy; <span id="year"></span> Ruth Esther D. Dela Fuente & Zaira Isabelle E. Flores. All rights reserved.
-       </p>
-        <script>
-        document.getElementById('year').textContent = new Date().getFullYear();
-        </script>
-</footer>
+
+  <footer>
+    <hr />
+    <p class="copyright">
+      &copy; <span id="year"></span>
+      Ruth Esther D. Dela Fuente &amp; Zaira Isabelle E. Flores. All rights reserved.
+    </p>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
 
 </body>
 </html>
+
