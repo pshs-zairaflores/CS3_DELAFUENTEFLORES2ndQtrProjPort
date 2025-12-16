@@ -1,0 +1,126 @@
+ body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: "Georgia", serif;
+      background-color: #fbf6e6;
+      color: #4a2c2a;
+    }
+
+    header {
+        background-image: url("/assets/the_gaang_by_happyviper_d6ofbdt-fullview (1).jpg");
+        background-size: cover;
+        background-position: center;
+        height: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: left;
+    }
+
+    .title-container {
+        display: flex;
+        align-items: center;
+        gap: 50px;
+    }
+
+    .logo {
+        width: 160px;
+        height: 160px;
+    }
+
+    h1, h2 {
+      margin: 0;
+      color: #ffffff;
+    }
+
+    h1 {
+      font-size: 64px;
+      letter-spacing: 2px;
+    }
+
+    h2 {
+      font-size: 34px;
+      font-style: italic;
+      margin-top: 10px;
+    }
+ 
+    /*NAVIGATION*/
+    nav{
+      background-color: rgba(215, 195, 160, 0.85);
+      background-image: url("/assets/Home.png");
+      padding: 10px 40px;
+      font-size: 18px;
+    }
+
+    .nav-list {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .nav-left, .nav-right {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+    }
+
+    .nav-list a {
+        text-decoration: none;
+        color: #3b1f1a;
+        font-weight: bold;
+        padding: 8px 12px;
+        border-radius: 6px;
+        transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    .nav-list a:hover {
+        background-color: rgba(255, 255, 255, 0.65);
+        color: #2a1613;
+    }
+
+    main {
+      padding: 40px 60px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    main h3 {
+      font-size: 40px;
+      margin-bottom: 20px;
+    }
+
+    main p {
+      font-size: 20px;
+      line-height: 1.7;
+    }
+
+    footer {
+      background-image: url("/assets/Home.png");
+      padding: 15px 20px;
+      font-size: 16px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    footer a {
+      color: #3b1f1a;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+h1,h2 {
+  color: #ffffff;
+  text-shadow:
+    0 0 5px rgba(255, 255, 255, 0.6),
+    0 0 10px rgba(255, 255, 255, 0.5),
+    0 0 20px rgba(255, 255, 255, 0.4);
+}
