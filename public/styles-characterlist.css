@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: "Georgia", serif;
+  background-color: #fbf6e6;
+  color: #4a2c2a;
+}
+
+header {
+    background-image: url("../assets/the_gaang_by_happyviper_d6ofbdt-fullview (1).jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.title-container {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-left: 35px;
+}
+
+.logo {
+  width: 75px;
+}
+
+h1 {
+    font-size: 60px;
+    margin: 0;
+    color: white;
+    text-shadow:
+        0 0 5px rgba(255,255,255,0.6),
+        0 0 10px rgba(255,255,255,0.5);
+}
+
+nav {
+  background-image: url("../assets/Home.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 10px 40px;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-left, .nav-right {
+  display: flex;
+  gap: 12px;
+}
+
+.nav-list a {
+  text-decoration: none;
+  color: #3b1f1a;
+  font-weight: bold;
+  padding: 8px 12px;
+  border-radius: 6px;
+}
+
+.nav-list a:hover {
+  background-color: rgba(255,255,255,0.65);
+}
+
+/* PAGE TITLE BAR */
+.page-title {
+  background-image: url("../assets/Home.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 25px 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-title h3 {
+  font-size: 56px;
+  margin: 0;
+}
+
+.homelink {
+    text-decoration: none;
+    color: #3b1f1a;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-radius: 10px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+.homelink:hover {
+    background-color: rgba(255, 255, 255, 0.65);
+    color: #2a1613;
+    }
