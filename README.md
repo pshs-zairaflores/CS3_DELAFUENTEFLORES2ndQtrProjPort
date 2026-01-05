@@ -18,3 +18,17 @@ Based on the animated TV show released 20 years ago, Avatar: The Last Airbender,
 JavaScript will be used in this website as a way for fans to share their thoughts to the public website. It will be found in the Messenger Hawks page and will be formatted as a text box. Afterwards, visitors can submit their thoughts and it will appear on the page itself. The page will look and work similar to the website Padlet.
 # 6. Canva link of wireframe
 .canva.com/design/DAG3eOkAl3A/hAn6IiR1Z6PVyUyznP_O2w/edit?utm_content=DAG3eOkAl3A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+# Q3 Proposal Update
+# Final Title: Echoes of the Elements
+# Features
+- accessible in phone and laptop
+- "Messenger Hawks" page that allows users to post their inputs into said page
+- Interactive Spotify widget for character playlists
+# Details
+- User input will be integrated into the "Messenger Hawks" page
+- User data will be saved in the website's "Messenger Hawks" page
+- 3
+# Definition of done
+- Website will be digitally presentable, wherein each page is complete and looks more appealing.
+- Promised features will be accessible in the website.
