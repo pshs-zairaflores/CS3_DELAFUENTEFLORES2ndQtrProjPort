@@ -28,7 +28,8 @@ JavaScript will be used in this website as a way for fans to share their thought
 # Details
 - User input will be integrated into the "Messenger Hawks" page
 - User data will be saved in the website's "Messenger Hawks" page
-- 3
+- Character pages will be shown
+- Character Playlist pages will be shown and interactive
 # Definition of done
 - Website will be digitally presentable, wherein each page is complete and looks more appealing.
 - Promised features will be accessible in the website.
