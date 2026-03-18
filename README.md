@@ -6,10 +6,19 @@ Based on the animated TV show released 20 years ago, Avatar: The Last Airbender,
 
 This project is for people of all ages who are interested or want to come back to the world of Avatar: The Last Airbender. Timely enough, a new movie wherein the main characters are adults will be coming out this year, as well as a new animated series and live action season, and fans of different generations are excited to see it. It had been 20 years ever since Avatar: The Last Airbender released, and for sure many would want to catch up and refresh on the lore. Even though it has been 20 years, Avatar: The Last Airbender always stays relevant. 
 
-They will love this project because it will immerse them to the world of Avatar once again, help them gain a deeper connection to their beloved characters.
+They will love this project because it will immerse them to the world of Avatar once again and help them gain a deeper connection to their beloved characters. The target audience will also be able to interact with elements from our website such as playlists and a "Messenger Hawk" system that serves as a forum to post things.
 
-This project features/includes
+This project features/includes an interactive Spotify widget embedded into the website for easy access and a Messenger Hawk forum system. This project does NOT include/feature recent news about the Avatar: The Last Airbender franchise and links to the episodes/clips of the series.
 
+Copyright (c) 2026 Ruth dela Fuente and Zaira Flores
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Submitted by Ruth dela Fuente & Zaira Flores on March 18, 2026 to Sir Roy Canseco in Partial fulfillment of the requirements in CS3 of DOST-PSHS-MC.
 
 # 1. A working website Title. The title should be short, catchy and would encapsulate what the website is about.  This title will be used on the website browser tab.
 Echoes of the Elements
