@@ -1,7 +1,7 @@
 ﻿# CS3_DELAFUENTEFLORESProjPort
 WEBSITE LOGO/FAVICON:
 https://www<img width="500" height="500" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/eb23def5-a480-4863-8c17-bf4b76834063" />
-# Echoes of The Elements
+# Echoes of The Elements: Final Modification Proposal
 Based on the animated TV show released 20 years ago, Avatar: The Last Airbender, Echoes of the Elements is a website featured around analyses covering the show's best characters --- chosen by two dedicated fans, Ruth and Zaira. Echoes of the Elements also features fanmade character playlists for fans equally as dedicated as the creators of this website.
 
 This project is for people of all ages who are interested or want to come back to the world of Avatar: The Last Airbender. Timely enough, a new movie wherein the main characters are adults will be coming out this year, as well as a new animated series and live action season, and fans of different generations are excited to see it. It had been 20 years ever since Avatar: The Last Airbender released, and for sure many would want to catch up and refresh on the lore. Even though it has been 20 years, Avatar: The Last Airbender always stays relevant. 
