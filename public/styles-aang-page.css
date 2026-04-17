@@ -169,6 +169,7 @@ nav{
     text-decoration: none;
       color: #3b1f1a;
       font-weight: bold;
+      font-size: 25px;
       padding: 8px 12px;
       border-radius: 10px;
       transition: background-color 0.2s ease, color 0.2s ease;
