@@ -32,8 +32,8 @@ h1 {
 }
 
 .page-title {
-  background-color: #e7d2a5;
-  background-image: url("../assets/Home.png");
+  /*background-color: #e7d2a5;
+  background-image: url("../assets/Home.png");*/
   display: flex;
   justify-content: space-between;
   align-items: center;
