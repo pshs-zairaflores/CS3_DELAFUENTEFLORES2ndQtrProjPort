@@ -149,32 +149,3 @@ nav{
   footer a:hover {
     text-decoration: underline;
   }
-
-  .suki-image {
-    width: 300px;
-    height: auto;
-    display: flex;
-    margin: 20px auto;
-    align-items: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  }
-
-  .spotify-playlist {
-    margin-top: 30px;
-    display: flex;
-    justify-content: center;
-  }
-
-  .spotify-playlist a {
-    text-decoration: none;
-      color: #3b1f1a;
-      font-weight: bold;
-      font-size: 25px;
-      padding: 8px 12px;
-      border-radius: 10px;
-      transition: background-color 0.2s ease, color 0.2s ease;
-  }
-  .spotify-playlist a:hover {
-    background-color: rgba(195, 240, 112, 0.65);
-      color: #2a1613;
-  }
