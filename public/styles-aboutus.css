@@ -68,10 +68,6 @@ nav {
   border-radius: 6px;
 }
 
-.nav-list a:hover {
-  background-color: rgba(255,255,255,0.65);
-}
-
 
 .page-title {
   background-image: url("/assets/Home.png");
@@ -94,7 +90,6 @@ nav {
     font-weight: bold;
     padding: 8px 12px;
     border-radius: 10px;
-    transition: background-color 0.2s ease, color 0.2s ease;
     }
 
 .homelink:hover {
